@@ -7,3 +7,8 @@ A repository with Projects and Presentations from MSc in Informatics
 - - - 
 **Special Topics and Applications of Digital Technologies**
 -  [A small project for MSc in Data Visualization using Python Pandas, Seaborne and Plotly](https://github.com/Chr-PanCs/Kozani-Traffic-2025-26-Visualization)
+
+- - - 
+**Advanced Digital Design & Embedded Systems**
+
+- [IoT Client for Smartplug with MQTT & GUI with interactive control](https://github.com/Chr-PanCs/IoT_MsC_Project)
